@@ -9,4 +9,12 @@ The version format should be `YYYY.MM.seq`. For example: the *third* version rel
 ## [Unreleased]
 
 
-[Unreleased]: https://github.com/miaowware/qrm2/compare/v0...HEAD
+## [2020.10.1] - 2020-10-30
+### Added
+- Most of qrm's resources, as is at time of release, with updated naming scheme.
+- Index file with versioned sets of resources.
+- MD5 hashes for all files in the index.
+
+
+[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2020.10.1...HEAD
+[2020.10.1]: https://github.com/miaowware/qrm-resources/compare/d32e6bdc...v2020.10.1

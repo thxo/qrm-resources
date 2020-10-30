@@ -1,43 +1,61 @@
 {
-    "last_updated": "2020-10-29",
+    "last_updated": "2020-10-30",
     "resources": {
         "bandcharts": {
-            "v1": [{
-                "filename": "/resources/bandcharts.1.json",
-                "hash": "fdsff45dsf56dsf45sd6f45sd4f56"
-            }]
+            "v1": [
+                {
+                    "filename": "/resources/bandcharts.1.json",
+                    "hash": "e7807cd3a5c8616867d3b9cc8f46b3a0"
+                }
+            ]
         },
         "img": {
-            "v1": [{
-                "filename": "/resources/imgs.1.json",
-                "hash": "fdsff45dsf56dsf45sd6f45sd4f56"
-            }]
+            "v1": [
+                {
+                    "filename": "/resources/imgs.1.json",
+                    "hash": "b9138e4c548d5c6579243d624d751432"
+                }
+            ]
         },
         "maps": {
-            "v1": [{
-                "filename": "/resources/maps.1.json",
-                "hash": "fdsff45dsf56dsf45sd6f45sd4f56"
-            }]
+            "v1": [
+                {
+                    "filename": "/resources/maps.1.json",
+                    "hash": "ab93552c8e7983ad80f14a021ce5aa11"
+                }
+            ]
         },
         "morse": {
-            "v1": [{
-                "filename": "/resources/morse.1.json"
-            }]
+            "v1": [
+                {
+                    "filename": "/resources/morse.1.json",
+                    "hash": "1b755d9fc8f2140c08ef625286e95fcd"
+                }
+            ]
         },
         "phonetics": {
-            "v1": [{
-                "filename": "/resources/phonetics.1.json"
-            }]
+            "v1": [
+                {
+                    "filename": "/resources/phonetics.1.json",
+                    "hash": "ebd8ee4f1b89dafbff6fe115078cf176"
+                }
+            ]
         },
-        "qcodes":{
-            "v1":[{
-                "filename": "/resources/qcodes.1.json"
-            }]
+        "qcodes": {
+            "v1": [
+                {
+                    "filename": "/resources/qcodes.1.json",
+                    "hash": "f425f427bae77f9165b60c7a6c50e451"
+                }
+            ]
         },
-        "funetics":{
-            "v1":[{
-                "filename":"/resources/words.1.txt"
-            }]
+        "funetics": {
+            "v1": [
+                {
+                    "filename": "/resources/words.1.txt",
+                    "hash": "5da8ab1a3efcd4eca102ac0499b99c7f"
+                }
+            ]
         }
     }
 }
