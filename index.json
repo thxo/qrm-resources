@@ -1,0 +1,43 @@
+{
+    "last_updated": "2020-10-29",
+    "resources": {
+        "bandcharts": {
+            "v1": [{
+                "filename": "/resources/bandcharts.1.json",
+                "hash": "fdsff45dsf56dsf45sd6f45sd4f56"
+            }]
+        },
+        "img": {
+            "v1": [{
+                "filename": "/resources/imgs.1.json",
+                "hash": "fdsff45dsf56dsf45sd6f45sd4f56"
+            }]
+        },
+        "maps": {
+            "v1": [{
+                "filename": "/resources/maps.1.json",
+                "hash": "fdsff45dsf56dsf45sd6f45sd4f56"
+            }]
+        },
+        "morse": {
+            "v1": [{
+                "filename": "/resources/morse.1.json"
+            }]
+        },
+        "phonetics": {
+            "v1": [{
+                "filename": "/resources/phonetics.1.json"
+            }]
+        },
+        "qcodes":{
+            "v1":[{
+                "filename": "/resources/qcodes.1.json"
+            }]
+        },
+        "funetics":{
+            "v1":[{
+                "filename":"/resources/words.1.txt"
+            }]
+        }
+    }
+}
