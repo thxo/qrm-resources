@@ -1,6 +1,0 @@
-theme: jekyll-theme-minimal
-
-exclude:
-  - CNAME
-  - .gitignore
-
