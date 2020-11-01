@@ -21,4 +21,5 @@ Do not apply that to non-flat images like actual pictures.
 
 ## Copyright
 - This work by [MiaowWare and Contributors](https://www.miaow.io) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+- Scripts in this repository are released under the terms of the [BSD 3-Clause license](LICENSE-BSD-3-CLAUSE).
 - Images are copyright of their respective owners.
