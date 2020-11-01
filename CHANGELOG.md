@@ -7,7 +7,10 @@ The version format should be `YYYY.MM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
-
+### Added
+- Italian (`it_hf`, `it_vhf`, `it_shf`), and Australian (`au`) band charts.
+### Changed
+- Better ordering of the maps and band charts.
 
 ## [2020.10.1] - 2020-10-30
 ### Added
