@@ -8,9 +8,12 @@ The version format should be `YYYY.MM.seq`. For example: the *third* version rel
 
 ## [Unreleased]
 ### Added
-- Italian (`it_hf`, `it_vhf`, `it_shf`), and Australian (`au`) band charts.
+- Italian (`it_hf`, `it_vhf`, `it_shf`), Japanese (`jp`), and Australian (`au`) band charts.
 ### Changed
 - Better ordering of the maps and band charts.
+### Fixed
+- Details to the Netherlands band chart to accurately represent VERNON (Netherlands ARRL equivalent organisation).
+
 
 ## [2020.10.1] - 2020-10-30
 ### Added
