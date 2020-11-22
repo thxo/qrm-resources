@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+exclude:
+  - CNAME
+  - .gitignore
+  - gethashes.py
+  - undohashed.py
+  - .github
