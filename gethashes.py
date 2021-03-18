@@ -14,8 +14,9 @@ from datetime import datetime
 from pathlib import Path
 
 
-index_file = Path("index.json")
-backup = Path("~" + index_file.name)
+basedir = Path("resources/")
+index_file = basedir / "index.json"
+backup = basedir / ("~" + index_file.name)
 
 
 print("Reading the index file...")
@@ -32,7 +33,7 @@ print("Getting the hashes...")
 for resource, versions in index["resources"].items():
     for version, files in versions.items():
         for file_idx, file in enumerate(files):
-            filepath = Path("./" + file["filename"])
+            filepath = basedir / file["filename"]
             with filepath.open("rb") as file:
                 hashed = hashlib.md5(file.read())
             index["resources"][resource][version][file_idx]["hash"] = str(binascii.hexlify(hashed.digest()), "utf-8")

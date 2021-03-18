@@ -1,34 +1,34 @@
 {
-    "last_updated": "2021-03-17T14:30:40.747579Z",
+    "last_updated": "2021-03-18T05:06:24.574968Z",
     "resources": {
         "bandcharts": {
             "v1": [
                 {
-                    "filename": "resources/bandcharts.1.json",
-                    "hash": "3b92a8815fd9932b8b5a691de73458dc"
+                    "filename": "bandcharts.1.json",
+                    "hash": "636eedc767995973ae501d2eb6339042"
                 }
             ]
         },
         "img": {
             "v1": [
                 {
-                    "filename": "resources/imgs.1.json",
-                    "hash": "e44935fa8ce8c120524f126110bfd584"
+                    "filename": "imgs.1.json",
+                    "hash": "7bf99a13bd707dcfc5f6fda06daa4e87"
                 }
             ]
         },
         "maps": {
             "v1": [
                 {
-                    "filename": "resources/maps.1.json",
-                    "hash": "32601ee87834bd28898a3fe92b065319"
+                    "filename": "maps.1.json",
+                    "hash": "a4d6eb80be1b821691dc4ccb7d9ba276"
                 }
             ]
         },
         "morse": {
             "v1": [
                 {
-                    "filename": "resources/morse.1.json",
+                    "filename": "morse.1.json",
                     "hash": "1b755d9fc8f2140c08ef625286e95fcd"
                 }
             ]
@@ -36,7 +36,7 @@
         "phonetics": {
             "v1": [
                 {
-                    "filename": "resources/phonetics.1.json",
+                    "filename": "phonetics.1.json",
                     "hash": "ebd8ee4f1b89dafbff6fe115078cf176"
                 }
             ]
@@ -44,7 +44,7 @@
         "qcodes": {
             "v1": [
                 {
-                    "filename": "resources/qcodes.1.json",
+                    "filename": "qcodes.1.json",
                     "hash": "f425f427bae77f9165b60c7a6c50e451"
                 }
             ]
@@ -52,7 +52,7 @@
         "funetics": {
             "v1": [
                 {
-                    "filename": "resources/words.1.txt",
+                    "filename": "words.1.txt",
                     "hash": "5da8ab1a3efcd4eca102ac0499b99c7f"
                 }
             ]
