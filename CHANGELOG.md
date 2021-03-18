@@ -1,3 +1,8 @@
+---
+permalink: /changelog/
+author: miaowware
+---
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
@@ -7,6 +12,8 @@ The version format should be `YYYY.MM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
+### Added
+- Russian (`ru`) band chart.
 
 
 ## [2020.11.2] - 2020-11-23

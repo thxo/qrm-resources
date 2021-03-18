@@ -10,6 +10,7 @@ Released under the terms of the BSD 3-Clause license.
 import binascii
 import hashlib
 import json
+from datetime import datetime
 from pathlib import Path
 
 
@@ -35,6 +36,9 @@ for resource, versions in index["resources"].items():
             with filepath.open("rb") as file:
                 hashed = hashlib.md5(file.read())
             index["resources"][resource][version][file_idx]["hash"] = str(binascii.hexlify(hashed.digest()), "utf-8")
+
+
+index["last_updated"] = datetime.utcnow().isoformat() + "Z"
 
 
 print("Writing the hashes...")
